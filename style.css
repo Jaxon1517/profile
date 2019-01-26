@@ -6,9 +6,16 @@ body {
 
 h1 {
 	font-family: 'Arvo', serif;
+	text-align: left;
 	font
 }
 
 nav {
+	border: 1px solid brown;
 	font-family:  'Cinzel', serif;
+}
+
+p {
+	font-size: 18px;
+	text-align: left;
 }
