@@ -1,13 +1,13 @@
 body {
 	text-align: center;
-	font-size
-	background-image: url(download.png);
+	font-size: 18;
+	background-image: url("background2.jpeg");
+	background-size: cover;
 }
 
 h1 {
 	font-family: 'Arvo', serif;
 	text-align: left;
-	font
 }
 
 nav {
@@ -18,4 +18,10 @@ nav {
 p {
 	font-size: 18px;
 	text-align: left;
+}
+
+#abt {
+	text-align: center;
+	font-size: 25px;
+	font-family: 'Marck Script', cursive;
 }
